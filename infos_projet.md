@@ -3,3 +3,4 @@
 Répartiton des Rôles : A faire 
 Idées : En cours
 Langages : Python, Tkinter , Pygame
+Type de Jeu : RPG , Zelda game
